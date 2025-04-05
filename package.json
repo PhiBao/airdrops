@@ -1,0 +1,14 @@
+{
+  "name": "humanity-contract-interaction",
+  "version": "1.0.0",
+  "description": "Script to interact with Humanity testnet",
+  "main": "humanity.js",
+  "type": "module",
+  "scripts": {
+    "start": "node humanity.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "ethers": "^6.13.5"
+  }
+}
