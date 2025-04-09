@@ -5,6 +5,8 @@
   "main": "humanity.js",
   "type": "module",
   "scripts": {
+    "humanity": "node humanity.js",
+    "tea": "node tea.js",
     "start": "node humanity.js"
   },
   "dependencies": {
